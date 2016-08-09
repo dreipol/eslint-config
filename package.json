@@ -2,7 +2,7 @@
   "name": "@dreipol/eslint-config",
   "version": "0.0.1",
   "description": "dreipol eslint config file",
-  "main": "index.js",
+  "main": ".eslintrc.js",
   "scripts": {
     "prepublish": "npm test",
     "test": "node -e \"require('./')\""
