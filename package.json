@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/dreipol/eslint-config.git"
   },
-  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com)",
+  "author": "Dreipol <dev@dreipol.ch> (http://dreipol.ch)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dreipol/eslint-config/issues"
