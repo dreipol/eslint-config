@@ -1,5 +1,4 @@
 module.exports = {
-   "root": true,
     "parserOptions": {
         "ecmaVersion": 7,
         "sourceType": "module",
@@ -147,7 +146,7 @@ module.exports = {
         //# Stylistic Issues
         "array-bracket-spacing": ["error", "never"],
         "block-spacing": ["warn", "always"],
-        "brace-style": ["error", "1tbs"],
+        "brace-style": [ "error", "1tbs", { "allowSingleLine": true }],
         "camelcase": "error",
         "comma-spacing": ["error", { "before": false, "after": true }],
         "comma-style": ["error", "last"],
