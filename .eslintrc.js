@@ -190,7 +190,7 @@ module.exports = {
         //"no-continue": "off",
         //"no-inline-comments": "off",
         "no-lonely-if": "error",
-        "no-mixed-operators": "error",
+        //"no-mixed-operators": "off",
         "no-mixed-spaces-and-tabs": "error",
         //"no-multiple-empty-lines": "off",
         "no-negated-condition": "error",
