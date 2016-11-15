@@ -213,7 +213,7 @@ module.exports = {
         //"operator-assignment": "off",
         "operator-linebreak": ["error", "none"],
         "padded-blocks": ["warn", "never"],
-        "quote-props": ["error", "as-needed", { "keywords": true }],
+        "quote-props": ["error", "as-needed"],
         "quotes": ["warn", "single", { "avoidEscape": true, "allowTemplateLiterals": true }],
         //"require-jsdoc": "off",
         "semi-spacing": ["error", { "before": false, "after": true }],
