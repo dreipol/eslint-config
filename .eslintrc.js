@@ -11,12 +11,7 @@ module.exports = {
     "env": {
         "browser": true,
         "amd": true,
-        "jquery": true,
         "es6": true,
-    },
-    "globals": {
-        "vue": true,
-        "globals": true,
     },
     "rules": {
         //# Possible Errors
