@@ -147,7 +147,7 @@ module.exports = {
         "array-bracket-spacing": ["error", "never"],
         "block-spacing": ["warn", "always"],
         "brace-style": [ "error", "1tbs", { "allowSingleLine": true }],
-        "camelcase": ["error", {properties: "never"}],
+        "camelcase": ["error", { "properties": "never" }],
         "comma-dangle": ["warn", "always-multiline"],
         "comma-spacing": ["error", { "before": false, "after": true }],
         "comma-style": ["error", "last"],
