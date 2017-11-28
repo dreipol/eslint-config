@@ -44,8 +44,8 @@ module.exports = {
     "no-unsafe-negation": "warn",
     "use-isnan": "error",
     'valid-jsdoc': ['warn', {
-      'prefer': { 'arg': 'param', 'argument': 'param', 'returns': 'return', 'virtual': 'abstract' },
-      "preferType": { "array": "Array", "Boolean": "boolean", "Number": "number", "object": "Object", "String": "string" },
+      "prefer": { 'arg': 'param', 'argument': 'param', 'returns': 'return', 'virtual': 'abstract' },
+      "preferType": { "array": "Array", "Boolean": "boolean", "function": "Function", "Number": "number", "object": "Object", "String": "string" },
       "requireReturn": false,
       "requireReturnType": true,
       "matchDescription": ".+",
