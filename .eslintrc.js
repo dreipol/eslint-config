@@ -222,7 +222,7 @@ module.exports = {
     //"sort-keys": "off",
     //"sort-vars": "off",
     "space-before-blocks": ["warn", "always"],
-    "space-before-function-paren": ["warn", "never"],
+    "space-before-function-paren": ["warn", { "anonymous": "never", "named": "never", "asyncArrow": "always" }],
     "space-in-parens": ["error", "never"],
     "space-infix-ops": "warn",
     "space-unary-ops": "error",
