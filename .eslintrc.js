@@ -56,6 +56,8 @@ module.exports = {
       "requireReturn": false,
       "requireReturnType": true,
       "matchDescription": ".+",
+      "requireParamDescription": false,
+      "requireReturnDescription": false
     }],
     "valid-typeof": "error",
 
