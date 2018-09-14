@@ -45,7 +45,14 @@ module.exports = {
     "use-isnan": "error",
     "valid-jsdoc": ["warn", {
       "prefer": { "arg": "param", "argument": "param", "returns": "return", "property": "prop", "virtual": "abstract" },
-      "preferType": { "array": "Array", "Boolean": "boolean", "function": "Function", "Number": "number", "object": "Object", "String": "string" },
+      "preferType": {
+        "array": "Array",
+        "Boolean": "boolean",
+        "Function": "function",
+        "Number": "number",
+        "Object": "object",
+        "String": "string"
+      },
       "requireReturn": false,
       "requireReturnType": true,
       "matchDescription": ".+",
@@ -263,4 +270,4 @@ module.exports = {
     "template-curly-spacing": ["warn", "always"]
     //"yield-star-spacing": "off"
   }
-};
+}
