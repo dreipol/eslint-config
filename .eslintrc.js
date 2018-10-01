@@ -206,7 +206,7 @@ module.exports = {
     "max-depth": ["error", 4],
     //"max-len": "off",
     //"max-lines": "off",
-    //"max-lines-per-function": "off",
+    "max-lines-per-function": ["warn", { "max": 100 }],
     "max-nested-callbacks": ["error", 2],
     "max-params": ["error", 5],
     //"max-statements": "off",
