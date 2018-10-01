@@ -246,7 +246,7 @@ module.exports = {
     "padding-line-between-statements": [
       "warn",
       { "blankLine": "always", "prev": "import", "next": "*" },
-      { "blankLine": "nay", "prev": "import", "next": "import" },
+      { "blankLine": "any", "prev": "import", "next": "import" },
     ],
     //"prefer-object-spread": "off",
     "quote-props": ["error", "as-needed"],
