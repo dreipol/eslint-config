@@ -1,11 +1,10 @@
 module.exports = {
   "root": true,
   "parserOptions": {
-    "ecmaVersion": 2017,
+    "ecmaVersion": 2018,
     "sourceType": "module",
     "ecmaFeatures": {
       "impliedStrict": true,
-      "experimentalObjectRestSpread": true
     }
   },
   "env": {
