@@ -1,6 +1,6 @@
 {
   "name": "@dreipol/eslint-config",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "dreipol eslint config file",
   "main": ".eslintrc.js",
   "scripts": {
