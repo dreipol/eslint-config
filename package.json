@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dreipol/eslint-config/issues"
   },
-  "homepage": "https://github.com/dreipol/eslint-config#readme"
+  "homepage": "https://github.com/dreipol/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^5.13.0"
+  }
 }

@@ -128,6 +128,7 @@ module.exports = {
     "no-unused-expressions": ["error", { "allowShortCircuit": true, "allowTernary": true }],
     //"no-unused-labels": "off",
     "no-useless-call": "error",
+    "no-useless-catch": "error",
     "no-useless-concat": "warn",
     "no-useless-escape": "warn",
     "no-useless-return": "error",
