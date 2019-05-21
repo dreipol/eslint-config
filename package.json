@@ -4,7 +4,7 @@
   "description": "dreipol eslint config file",
   "main": ".eslintrc.js",
   "scripts": {
-    "prepublish": "npm test",
+    "prepublishOnly": "npm test",
     "test": "node -e \"require('./')\""
   },
   "repository": {
